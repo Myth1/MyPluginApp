@@ -11,6 +11,7 @@ import com.mythqian.mypluginapp.manager.PluginManager
 import com.mythqian.mypluginapp.proxy.ProxyActivity
 import com.mythqian.mypluginapp.proxy.ProxyService
 import kotlinx.android.synthetic.main.activity_main_with_coroutine.*
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import java.io.File
 import java.io.FileInputStream
